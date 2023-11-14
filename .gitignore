@@ -16,6 +16,9 @@ __pycache__/
 .xls
 .xlsx
 
+# folders
+Data/
+
 # Remove checkpoints
 *-checkpoint
 
